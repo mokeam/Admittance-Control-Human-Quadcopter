@@ -5,20 +5,20 @@ The forces applied to the system are estimated from the position and orientation
 
 The strategy used is followed by simulations that show the method is applicable for such task. <br/>
 
-Block Scheme
+## Block Scheme
 ![Block Diagram](images/Full_Scheme.png)
 
-Regulation Problem
+## Regulation Problem
 ![Regulation Problem](images/Reg.jpg)
 
-Trajectory Tracking
+## Trajectory Tracking
 ![Trajectory Tracking](images/Traj_Track.jpg)
 
-Applied Force Without Stiffness
+## Applied Force Without Stiffness
 ![Applied Force Without Stiffness](images/Force_NoStiff.jpg)
 
-Applied Force With Stiffness
+## Applied Force With Stiffness
 ![Applied Force With Stiffness](images/Force_Stiff.jpg)
 
-Applied Force and Trajectory Tracking With Stiffness
+## Applied Force and Trajectory Tracking With Stiffness
 ![Applied Force and Trajectory Tracking With Stiffness](images/Force_Traj_Stiff.jpg)
